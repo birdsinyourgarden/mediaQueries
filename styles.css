@@ -1,0 +1,59 @@
+/* estilos generales */
+body {
+    font-size: 16px;
+    color: black;
+}
+
+/* media query para pantallas pequeñas (móviles) */
+@media (max-width: 480px) {
+    body {
+        font-size: 14px;
+    }
+}
+
+/* media query para pantallas (móviles) */
+@media (max-width: 600px) {
+    body {
+        font-size: 14px;
+        color: blue;
+    }
+}
+
+/* media query para tablets (móviles) */
+
+@media (max-width: 992px) {
+    body {
+        font-size: 17px;
+        color: red;
+    }
+}
+
+/* media query para pantallas grandes (escritorio) */
+@media (min-width: 1024px) {
+    body {
+        font-size: 18px;
+        color: green;
+    }
+}
+
+/* media query para pantallas extra grandes (escritorio) */
+@media (max-width: 1201px) {
+    body {
+        font-size: 18px;
+    }
+}
+ /* modo vertical */
+@media (orientation: portrait) {
+    body {
+        font-size: 16px;
+        background-color: lightblue;
+    }
+}
+
+/* modo horizontal */
+@media (orientation: landscape) {
+    body {
+        font-size: 18px;
+        background-color: lightgreen;
+    }
+}
