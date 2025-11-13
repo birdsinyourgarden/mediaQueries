@@ -14,3 +14,7 @@ Las *media queries* pueden depender de diversas condiciones, como:
 - **max-height** y **min-height**: Altura máxima y mínima de la pantalla.
 - **orientation**: Orientación del dispositivo (horizontal o vertical).
 - **resolution**: Resolución de la pantalla en DPI (para pantallas retina, por ejemplo).
+
+https://quirktools.com/screenfly/?
+
+
