@@ -3,8 +3,8 @@
 - **480px o menos**: Dispositivos muy pequeños, como teléfonos móviles pequeños o más antiguos.
 - **768px o menos**: La mayoría de los teléfonos móviles modernos y algunos tablets pequeños en modo vertical.
 - **992px o menos**: Tablets en orientación vertical o teléfonos en orientación horizontal.
-- **1200px o menos**: Pantallas grandes de tablets en orientación horizontal y laptops pequeñas.
-- **1201px o más**: Pantallas de computadora de escritorio y laptops grandes.
+- **1200px o menos**: Pantallas grandes de tablets en orientación horizontal.
+- **1201px o más**: Pantallas de ordenador.
 
 ### Tipos de condiciones en media queries
 
